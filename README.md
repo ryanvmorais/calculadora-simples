@@ -1,3 +1,7 @@
+> **Este projeto mudou de endereço.** A versão mantida está em
+> [aprenda-com-ryan-morais › mini_projetos › calculadora_simples](https://github.com/ryanvmorais/aprenda-com-ryan-morais/tree/main/mini_projetos/calculadora_simples).
+> Este repositório fica arquivado para não quebrar links antigos.
+
 ![Calculadora Simples em Python: captura real do terminal calculando 42 + 8](assets/calculadora-simples-python-terminal.svg)
 
 # 🧮 Calculadora Simples em Python | Exercício de Lógica e Dicionários
